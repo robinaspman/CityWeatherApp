@@ -1,1 +1,1 @@
-An app using open weather api to find a city information.
+An app using open weather api to find city information.
